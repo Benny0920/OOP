@@ -2,6 +2,8 @@
 
 int main(){
     Cylinder c;
+    
+    int a = 0;
 
     cin >> c;
     cout<< c;
